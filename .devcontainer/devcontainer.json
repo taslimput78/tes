@@ -1,0 +1,5 @@
+{
+    "build": { "dockerfile": "Dockerfile" },
+    "extensions": ["ms-vscode.cpptools"],
+    "forwardPorts": [3000]
+  }
